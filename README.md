@@ -18,4 +18,4 @@ The data contains such attributes as patient number, race, gender, age, admissio
 
 Source: UCI Machine Learning Repository, https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008
 
-*Please open the Jupyter Notebook file to see the details.
+*Please open the Jupyter Notebook file to see the details.*
