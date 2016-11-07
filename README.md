@@ -5,6 +5,8 @@ Diabetes is the 7th leading cause of death and affects about 23.6 million people
 
 **In this project**, I build a machine learning classifier model to predict diabetes patients with high risk of readmission. Note that higher sensitivity (recall) is more desirable for hospitals because it is more crucial to correctly identify "high risk" patients who are likely to be readmitted than identifying "low risk" patients.
 
+*Please open the Jupyter Notebook file to see the details.*
+
 # Dataset Description
 The dataset represents 10 years (1999-2008) of clinical care at 130 US hospitals and integrated delivery networks. It includes 50 features representing 101766 diabetes patient and hospital outcomes. Information was extracted from the database for encounters that satisfied the following criteria:
 
@@ -17,7 +19,3 @@ The dataset represents 10 years (1999-2008) of clinical care at 130 US hospitals
 The data contains such attributes as patient number, race, gender, age, admission type, time in hospital, medical specialty of admitting physician, number of lab test performed, HbA1c test result, diagnosis, number of medication, diabetic medications, number of outpatient, inpatient, and emergency visits in the year before the hospitalization, etc.
 
 Source: UCI Machine Learning Repository, https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008
-
-
-
-*Please open the Jupyter Notebook file to see the details.*
